@@ -3,3 +3,4 @@
 
 2025-10-20:
 上传shadowrocket的配置文件，融合去广告、白名单内容
+https://raw.githubusercontent.com/Nexro920/Nexro920.github.io/main/fused_config.conf
